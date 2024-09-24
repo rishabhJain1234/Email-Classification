@@ -1,0 +1,9 @@
+ipykernel
+selenium
+python-dotenv
+regex
+transformers
+matplotlib
+scikit-learn
+pandas
+transformers[torch]

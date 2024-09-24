@@ -1,0 +1,6 @@
+.venv
+.env
+venv/
+saved models/
+TTC4900Model/
+
